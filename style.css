@@ -1,0 +1,29 @@
+body{
+  background:lightgray;
+  margin:0px;
+}
+header{
+  background:white;
+  padding:10px;
+}
+header h1{
+  margin:0px;
+}
+div.post{
+  background:white;
+}
+div.post h2,div.post p{
+  padding:0px;
+}
+div.post img{
+  width:100%;
+}
+div.container{
+  width:600px;
+  margin:auto;
+}
+span{
+  float:right;
+  margin-top:-61px;
+  padding:10px;
+}
